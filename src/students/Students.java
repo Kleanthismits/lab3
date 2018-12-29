@@ -254,7 +254,6 @@ public class Students{
 			}
 		}
 		if (z==true) {
-			System.out.println("zzzzzzzzzz");
 			notFound();
 			anotherTime();
 		}
